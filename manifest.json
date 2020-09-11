@@ -1,8 +1,19 @@
 {
-    "author": {
-      "name": "Tars Technologies, Inc",
-      "email": "support@hellotars.com",
-      "url": "https://hellotars.com/ "
-    },
-    "marketingOnly": true
+  "name": "Tars Chatbots",
+  "author": {
+    "name": "Tars Technologies, Inc",
+    "email": "support@hellotars.com",
+    "url": "https://hellotars.com/"
+  },
+  "marketingOnly": true,
+  "defaultLocale": "en",
+  "private": false,
+  "gaID": "ua-63097026-1",
+  
+  "location": {
+    "chat": {
+    }
+  },
+  "domainWhitelist": ["hellotars.com"],
+  "version": "1.0"
 }
